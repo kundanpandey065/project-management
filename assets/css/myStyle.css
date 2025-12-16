@@ -1,0 +1,60 @@
+.font12{
+    font-size: 12px!important;
+}
+.font13{
+    font-size: 13px!important;
+}
+.font14{
+    font-size: 14px!important;
+}
+
+
+.logoHead img{
+  margin-top: 10px;
+}
+
+
+.msgWrap{
+  position: fixed;
+  right: 10px;
+  z-index: 9;
+  top: 80px;
+}
+.profile-user-wid {
+    margin-top: -49px;
+}
+
+.bg-primary-subtle {
+    background-color: rgba(85, 110, 230, 0.25) !important;
+}
+
+
+
+.myaChart #chart-container {
+  position: relative;
+  height: 70vh;
+  overflow: hidden;
+}
+
+
+
+.ellipseText{
+  white-space: nowrap; 
+  width: 200px; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}
+
+.inProgressBorder{
+    border:2px solid #327bf0;
+}
+.nameOnTableRow{
+    position: absolute;
+    top: -8px;
+    left: -2px;
+    background-color: #327bf0;
+    padding: 1px 4px;
+}
+.nameOnTableRow p{
+    font-size: 8px;
+}
